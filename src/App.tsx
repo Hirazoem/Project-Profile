@@ -7,7 +7,7 @@ function App() {
     <div className="portfolio-container">
       <header className="header">
         <img
-          src="public/ID.jpg"
+          src="/ID.jpg"
           alt="Profile"
           className="profile-img"
         />
