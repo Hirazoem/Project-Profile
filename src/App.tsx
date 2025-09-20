@@ -11,7 +11,7 @@ function App() {
           alt="Profile"
           className="profile-img"
         />
-        <h1>James Uy</h1>
+        <h1>Bryan Emanuel L. Carpizo</h1>
         <h2>Frontend Developer & Designer</h2>
       </header>
 
